@@ -1,0 +1,167 @@
+{
+  "name": "📺ต้นฟิก📺",
+  "author": "🅶🆄🅵🅻🅸🆇 🅗🅘! 🙏 223.24.152.126",
+  "url": "",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPA_O3dcHQfbG5qPIhpW898iKCdTnokNLhHQ&usqp=CAU",
+  "imageScale": "center",
+  "groups": [
+    {
+      "name": "ต้นทีวี&FWทีวี",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/Songkran23_LIVE-TV.png",
+      "url": "https://raw.githubusercontent.com/akin230/IPTV-THAI/1555a518a7871df49493096d97c902ba2419dd5b/toniptv.m3u",
+      "import": false
+    },
+    {
+      "name": "fw & HBO",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/Songkran23_LIVE-TV.png",
+      "url": "https://raw.githubusercontent.com/akin230/iptv-1/2dce35765de14cae7a5003e6705ded2182f83aca/fwiptv34.m3u",
+      "import": false
+    },
+    {
+      "name": "🅗🅘! 🧑 8 Users online",
+      "image": "http://guflix.streaming-fast.com/logo/guflix.gif",
+      "imageScale": "center",
+      "url": "https://pastebin.com/hWjJbvuX",
+      "import": false
+    },
+    {
+      "name": "📅12-12-2024 ⌚16:08:48",
+      "image": "http://guflix.streaming-fast.com/logo/guflix.gif",
+      "imageScale": "center",
+      "url": "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8",
+      "import": false
+    },
+    {
+      "name": "เอฟเอ็ม",
+      "image": "http://guflix.streaming-fast.com/logo/guflix.gif",
+      "imageScale": "center",
+      "url": "https://github.dev/akin230/iptvthai.my.to/blob/3b1911aaa345ee3e0972938a2908b12b0d904211/Online_Radio.m3u",
+      "import": false
+    },
+    null
+  ],
+  "stations": [
+    {
+      "name": "HISTORY",
+      "image": "https://www.img03.xyz/assets/img/ch_logo/hd-history.png",
+      "url": "https://dookeela.live/live-tv/history",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Animal Planet",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png",
+      "url": "https://dookeela.live/live-tv/animal-planet",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Discovery",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",
+      "url": "https://dookeela.live/live-tv/discovery",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Discovery Asia",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",
+      "url": "https://dookeela.live/live-tv/discovery-asia",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "สำรวจโลก",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",
+      "url": "https://dookeela.live/live-tv/samrujlok",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Animal Show",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png",
+      "url": "https://dookeela.live/live-tv/animalshow",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Crime + Investigation",
+      "image": "https://dookeela.live/uploads/1714101661.png",
+      "url": "https://dookeela.live/live-tv/crime-investigation",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Love Nature",
+      "image": "https://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent-300x200.png",
+      "url": "https://dookeela.live/live-tv/love-nature-4k",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MySci",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png",
+      "url": "https://dookeela.live/live-tv/mysci",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Explore Wild",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",
+      "url": "https://dookeela.live/live-tv/trueexplorewild",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Explore Sci",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",
+      "url": "https://dookeela.live/live-tv/trueexploresci",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True Explore Life",
+      "image": "https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+      "url": "https://dookeela.live/live-tv/trueexplorelife",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CGTN Documentary",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/320px-CGTN_Documentary.svg.png",
+      "url": "https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "RT Documentary",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png/292px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png",
+      "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+      "referer": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True X-Zyte",
+      "image": "https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",
+      "url": "https://dookeela.live/live-tv/truex-zyte",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Asian Food Network",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
+      "url": "https://dookeela.live/live-tv/afn",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Food Network",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png",
+      "url": "https://dookeela.live/live-tv/foodnetwork",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "FWDoc",
+      "image": "https://img.inwiptv.net/postor/20240617204638FWDoc.jpg",
+      "url": "https://inwiptv.com/player_demo.php?channel=91303",
+      "playInNatPlayer": "true"
+    }
+  ]
+}
